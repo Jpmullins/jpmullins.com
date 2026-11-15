@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://jpmullins.com/sitemap.xml
+Sitemap: https://justinpmullins.com/sitemap.xml
