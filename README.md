@@ -1,6 +1,6 @@
 # Justin P. Mullins
 
-Personal research website at https://jpmullins.com.
+Personal research website at https://justinpmullins.com.
 
 Buildless HTML, CSS, and JavaScript, hosted with GitHub Pages.
 
